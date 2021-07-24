@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Brandon Mukadziwashe's Website
 
-You can use the [editor on GitHub](https://github.com/BrandonMukadziwashe/Hello-World/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Tuts University student studying Computer Science, Quantitative Economics, and Finance!!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
