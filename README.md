@@ -1,6 +1,6 @@
 ## Welcome to Brandon Mukadziwashe's Website
 
-I am a Tuts University student studying Computer Science, Quantitative Economics, and Finance!!
+I am a rising sophomore at Tuts University majoring in Computer Science and Quantitative Economics, and minoring in Finance.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
